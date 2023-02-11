@@ -42,7 +42,7 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 <ins>YouTube:<ins>
 
-*[Reverse engineering with Ghidra](https://youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
+* [Reverse engineering with Ghidra](https://youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
   
 <ins>Books:</ins>
 * [Practical Reverse Engineering](https://www.wiley.com/en-us/Practical+Reverse+Engineering:+x86,+x64,+ARM,+Windows+Kernel,+Reversing+Tools,+and+Obfuscation-p-9781118787311)
