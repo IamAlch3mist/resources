@@ -1,5 +1,5 @@
 # resources
-Collection of resources I'm using in my infosec journey (inspired by seal9055's work) updating day by day.
+Collection of resources I'm using in my infosec journey (inspired by seal9055's work) updating occasionally
 
 ## Table of Contents
 [Embedded Security](#1) <br/>
