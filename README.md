@@ -20,3 +20,42 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 <a name="1"/></a>
 ### Embedded Security
+
+<a name="2"/></a>
+### Reverse Engineering
+
+<a name="3"/></a>
+### Malware Analysis
+
+<a name="4"/></a>
+### Binary Analysis
+
+<a name="5"/></a>
+### Operating Systems
+
+<a name="6"/></a>
+### Binary Exploitation
+
+<a name="7"/></a>
+### Fuzzing
+
+<a name="8"/></a>
+### Secure Coding
+
+<a name="9"/></a>
+### Penetration Testing
+
+<a name="10"/></a>
+### Webapplication Pentesting
+
+<a name="11"/></a>
+### Mobile Application Pentesting  
+
+<a name="12"/></a>
+### Programming
+
+<a name="13"/></a>
+### Embedded Development
+
+<a name="14"/></a>
+### Learning Linux
