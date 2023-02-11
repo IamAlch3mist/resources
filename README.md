@@ -2,7 +2,7 @@
 Collection of resources I'm using in my infosec journey (inspired by seal9055's work)
 
 ## Table of Contents
-[Embedded Security](#1)
+[Embedded Security](#1) <br/>
 [Reverse Engineering](#2)
 [Malware Analysis](#3)
 [Binary Analysis](#4)
