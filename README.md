@@ -3,6 +3,9 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 ## Table of Contents
 [Embedded Security](#1)
+<ins>Books:</ins>
+* [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
+
 [Reverse Engineering](#2)
 [Malware Analysis](#3)
 [Binary Analysis](#4)
