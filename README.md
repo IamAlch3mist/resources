@@ -26,6 +26,7 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 * [LiveOverflow \(RHme CTF\)](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
 * [gamozolabs \(Printer Hacking\)](https://www.youtube.com/playlist?list=PLSkhUfcCXvqGGQN8ATgWI0XYGvU-jq0uG)
 * [Make Me Hack \(Hardware Hacking Tutorial\)](https://www.youtube.com/playlist?list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU)
+* [Foscam R2C camera ](https://youtube.com/playlist?list=PLct3DQFrYAjjOW9_wSBmOeExRxkKsp-Tn)
 
 <ins>Books:</ins>
 * [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
@@ -60,12 +61,16 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 <ins>Books:</ins>
 * [Hacking The Art of Exploitation](https://nostarch.com/hacking2.htm)
+* [Nightmare](https://guyinatuxedo.github.io/)
 
 <a name="7"/></a>
 ### Fuzzing
 
 <a name="8"/></a>
 ### Secure Coding
+
+<ins>Books:</ins>
+* [Art of Software Security Assessment](https://www.amazon.in/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426)
 
 <a name="9"/></a>
 ### Penetration Testing
@@ -84,6 +89,10 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 <a name="13"/></a>
 ### Embedded Development
+
+<ins>YouTube:<ins>
+* [Intro to embedded Linux](https://youtube.com/playlist?list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB)
+* [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 
 <ins>Books:</ins>
 * [Mastering Embedded Linux Programming - 3rd ed](https://www.packtpub.com/product/mastering-embedded-linux-programming-third-edition/9781789530384)
