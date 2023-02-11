@@ -16,3 +16,7 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 [Programming](#12)
 [Embedded Development](#13)
 [Learning Linux](#14)
+
+
+<a name="1"/></a>
+### Embedded Security
