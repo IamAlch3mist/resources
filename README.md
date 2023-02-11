@@ -1,21 +1,21 @@
 # resources
-Collection of resources I'm using in my infosec journey (inspired by seal9055's work)
+Collection of resources I'm using in my infosec journey (inspired by seal9055's work) updating day by day.
 
 ## Table of Contents
 [Embedded Security](#1) <br/>
-[Reverse Engineering](#2)
-[Malware Analysis](#3)
-[Binary Analysis](#4)
-[Operating Systems](#5)
-[Binary Exploitation](#6)
-[Fuzzing](#7)
-[Secure Coding](#8)
-[Penetration Testing](#9)
-[Webapplication Pentesting](#10)
-[Mobile Application Pentesting](#11)
-[Programming](#12)
-[Embedded Development](#13)
-[Learning Linux](#14)
+[Reverse Engineering](#2) <br/>
+[Malware Analysis](#3) <br/>
+[Binary Analysis](#4) <br/>
+[Operating Systems](#5) <br/>
+[Binary Exploitation](#6) <br/>
+[Fuzzing](#7) <br/>
+[Secure Coding](#8) <br/>
+[Penetration Testing](#9) <br/>
+[Webapplication Pentesting](#10) <br/>
+[Mobile Application Pentesting](#11) <br/>
+[Programming](#12) <br/>
+[Embedded Development](#13) <br/>
+[Learning Linux](#14) <br/>
 
 
 <a name="1"/></a>
