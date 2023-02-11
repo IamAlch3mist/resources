@@ -41,6 +41,7 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 ### Reverse Engineering
 
 <ins>YouTube:<ins>
+
 *[Reverse engineering with Ghidra](https://youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi)
   
 <ins>Books:</ins>
