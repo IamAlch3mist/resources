@@ -3,9 +3,6 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 ## Table of Contents
 [Embedded Security](#1)
-<ins>Books:</ins>
-* [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
-
 [Reverse Engineering](#2)
 [Malware Analysis](#3)
 [Binary Analysis](#4)
@@ -23,7 +20,9 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 
 <a name="1"/></a>
 ### Embedded Security
-
+<ins>Books:</ins>
+* [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
+* 
 <a name="2"/></a>
 ### Reverse Engineering
 
