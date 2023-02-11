@@ -25,6 +25,7 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 * [Flashback Team ](https://www.youtube.com/@FlashbackTeam)
 * [LiveOverflow \(RHme CTF\)](https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M)
 * [gamozolabs \(Printer Hacking\)](https://www.youtube.com/playlist?list=PLSkhUfcCXvqGGQN8ATgWI0XYGvU-jq0uG)
+* [Make Me Hack \(Hardware Hacking Tutorial\)](https://www.youtube.com/playlist?list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU)
 
 <ins>Books:</ins>
 * [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
