@@ -58,7 +58,10 @@ Collection of resources I'm using in my infosec journey (inspired by seal9055's 
 * [John Hammond \(Malware Analysis videos\)](https://youtube.com/playlist?list=PL1H1sBF1VAKWMn_3QPddayIypbbITTGZv)
 * [cybercdh \(malware analysis series\)](https://www.youtube.com/playlist?list=PLC9K7uaDMdAXPnInKDK5D033TyDKf9Cgt)
 * [Hackersploit \(Malware Analysis\)](https://youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)
-  
+
+<ins>Blogs:</ins>
+* [Alexandre Borges malware analysis series](https://exploitreversing.com/)
+
 <ins>Books:</ins>
 * [Practical Malware Analysis](https://nostarch.com/malware)
 * [Learning Malware Analysis](https://www.packtpub.com/product/learning-malware-analysis/9781788392501)
